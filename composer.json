@@ -1,0 +1,14 @@
+{
+    "name": "gyman/supr",
+    "type": "template",
+    "description": "supr.admin template for gyman app",
+    "keywords": [],
+    "homepage": "http://github.com/gyman/supr",
+    "license": "commercial",
+    "authors": [
+    ],
+    "require": {
+    },
+    "autoload": {
+    }
+}
